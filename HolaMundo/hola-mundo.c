@@ -6,7 +6,7 @@ todo programa en c empieza con la funcion main que inicia la ejecucion del progr
 
 int main () {
   printf("Hola mundo, macu\n");
-  return 0; //esto significa que el programa termino con exito el programa 
+  return 0; //esto significa que el programa termino con exito
 }
 
 //fin de la funcion main 
